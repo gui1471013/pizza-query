@@ -5,3 +5,5 @@ SELECT 'OLÁ MUNDO!'
 
 SELECT *                          -- selecione todas as colunas
 FROM silver.pizza_query.pedido    -- da tabela silver.pizza_query.pedido
+
+--show de bola, BORAAA! 
